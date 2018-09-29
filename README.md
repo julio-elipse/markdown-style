@@ -1,2 +1,2 @@
 # markdown-style
-A manual of style for documentation using Markdown on Elipse Software
+A manual of style for documentation using Markdown at Elipse Software.
